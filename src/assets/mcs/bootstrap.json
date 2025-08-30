@@ -1,0 +1,8 @@
+{
+    ":bootstrap": {
+        "button":["btn"]
+    },
+    ":primary":{
+        "button":["btn-primary"]
+    }
+}
